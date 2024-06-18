@@ -94,7 +94,7 @@
 	},
 	"dependencies": {
 		"@types/jsdom": "^16.2.12",
-		"jsdom": "^16.6.0",
+		"jsdom": "^17.0.0",
 		"linkedom": "^0.11.1",
 		"node-fetch": "^2.6.1",
 		"typescript-language-server": "^0.5.4",
